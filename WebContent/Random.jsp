@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	<h1>Random Things - You decide...</h1>
+	<h1>Random Things - You decide</h1>
 
 	<form action="${pageContext.request.contextPath}/RandomPizza"
 		method="post">
